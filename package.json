@@ -1,0 +1,12 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "ErfanCe",
+  "license": "ISC",
+  "description": "create simple web server using HTTP"
+}
